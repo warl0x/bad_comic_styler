@@ -1,0 +1,7 @@
+{
+  "name": "bad_comic_styler",
+  "description": "Transform your everyday photos into stunning toon, comic, or anime art using advanced AI. Professional-grade artistic filters at your fingertips.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
